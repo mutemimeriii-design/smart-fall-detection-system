@@ -73,3 +73,9 @@ This project is intended for educational and prototyping purposes only. It shoul
 ## Author
 
 Mutemi Mary, Computer Science student: Internet of Things Enthusiast.
+
+## Circuit / Wiring Diagram
+
+The diagram below illustrates the wiring connections for the Smart Fall Detection System, including the ESP8266 NodeMCU, MPU6050 accelerometer and gyroscope, LCD display, LED, and buzzer.
+
+![Smart Fall Detection System Wiring Diagram](Smart%20fall%20detection%20wiring.jpeg)
